@@ -89,8 +89,5 @@ cd Spell_checker
 </table>
 
 
-<h2>License</h2>
-<p>This project is open source and available under the <a href="LICENSE">MIT License</a>.</p>
-
 </body>
 </html>
